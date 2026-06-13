@@ -23,6 +23,8 @@ Each `.md` file becomes a first-class `/command` that can be invoked in any Clau
 | `/evidence-log`    | View / append / format compliance evidence   | End of every step                   |
 | `/dev-cycle`       | Re-state or walk the full mandatory workflow | When user wants a reminder          |
 
+See [TESTING.md](../TESTING.md) for detailed instructions on how to test these commands, including sample data under `docs/evidence/PROJ-1234/`.
+
 ## Adding New Commands
 
 Simply create a new file:

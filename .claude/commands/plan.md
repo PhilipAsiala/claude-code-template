@@ -55,7 +55,7 @@ Use this exact structure (Markdown):
 - [ ] ...
 
 **Next Action**
-Run `/git-guardrails PROJ-1234 "short summary"` then begin with step 1 using `/step 1`.
+If not already on a compliant feature branch for this story, first run `/git-guardrails PROJ-1234 "short summary"`. Then begin executing step 1 using `/step 1`.
 ```
 
 ## Rules

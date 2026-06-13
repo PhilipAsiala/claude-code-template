@@ -70,7 +70,7 @@ The individual commands in `.claude/commands/` exist to help you execute the abo
 - `/plan <story-id>` — Produce the implementation plan + evidence list
 - `/step [step-number]` — Execute the next (or specified) step and capture evidence
 - `/evidence-log [action]` — View, append, or format evidence for the current story
-- `/jira-epic [epic-key]` or `/jira-sync` — Pull latest context or push updates
+- `/jira-epic [epic-key]` — Pull latest context, draft updates, or synchronize status with Jira
 - `/dev-cycle` — (Optional) Re-print or walk through the full mandatory workflow
 
 You should proactively suggest the next appropriate command when the user is working on a story.

@@ -39,6 +39,4 @@ The complete, binding version of these rules is in the `CLAUDE.md` file at the r
 
 You can ask me to read and re-state any section of `CLAUDE.md` at any time.
 
----
-
 **Remember:** These processes exist so that the team can move quickly while remaining fully auditable. Following them is how we maintain trust with stakeholders and pass reviews.
