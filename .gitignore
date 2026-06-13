@@ -1,0 +1,46 @@
+# Claude Code
+# User-specific settings (never commit these — they contain model/API config)
+.claude/settings.json
+.claude/local/
+
+# Continue.dev legacy (if migrating)
+.continue/
+
+# General
+.DS_Store
+*.swp
+.idea/
+.vscode/
+*.iml
+.env
+.env.*
+
+# Logs & temp
+*.log
+tmp/
+temp/
+
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+
+# Terraform (if using this template alongside IaC)
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Build / dist
+dist/
+build/
+out/
+
+# Secrets & credentials (extra safety)
+*.pem
+*.key
+secrets/
+credentials.json
+aws-credentials
